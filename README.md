@@ -1,2 +1,2 @@
 # hello-world
-getting started
+getting started and first commit
